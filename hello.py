@@ -8,8 +8,8 @@ def more_goodbye():
 
 # This is a nonesense step that generate a warning (not good quality of code)
 
- var = 1
-var = var
+ #var = 1
+#var = var
 
 # Bad sytax
 # foo =
